@@ -9,5 +9,5 @@ public class DentalSuiteApplication {
     public static void main(String[] args) {
         SpringApplication.run(DentalSuiteApplication.class, args);
     }
- // Let's go
+ // Let's gogit
 }
